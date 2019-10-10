@@ -1,3 +1,4 @@
+/*
 package sai.service.MCQs;
 
 import org.junit.Test;
@@ -14,3 +15,4 @@ public class McQsApplicationTests {
 	}
 
 }
+*/
