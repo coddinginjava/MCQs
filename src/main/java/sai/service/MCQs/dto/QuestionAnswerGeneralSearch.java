@@ -16,5 +16,6 @@ public class QuestionAnswerGeneralSearch {
 	private List<String> subjectName;
 	private List<String> testCode;
 	private String createdTimeStamp;
+	private List<String> parameters;
 
 }
