@@ -1,4 +1,4 @@
-package sai.service.MCQs.DTO;
+package sai.service.MCQs.dto;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

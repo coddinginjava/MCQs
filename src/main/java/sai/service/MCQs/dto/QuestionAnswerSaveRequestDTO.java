@@ -1,4 +1,4 @@
-package sai.service.MCQs.DTO;
+package sai.service.MCQs.dto;
 
 import lombok.Data;
 
@@ -12,5 +12,4 @@ public class QuestionAnswerSaveRequestDTO {
     private String subjectName;
     private String testCode;
     private List<QuestionAnswerCore> questionAnswerCore;
-    private String createdTimeStamp;
 }

@@ -1,4 +1,4 @@
-package sai.service.MCQs.DTO;
+package sai.service.MCQs.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
